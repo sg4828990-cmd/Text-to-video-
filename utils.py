@@ -1,4 +1,3 @@
-# Don't Remove Credit Telegram - @spidy_universe
 import time
 import math
 import os
@@ -91,7 +90,7 @@ async def progress_bar(current, total, reply, start):
             progress_bar = "▰" * completed_length + "▱" * remaining_length
             
             try:
-                await reply.edit(f'<b>\n ╭──⌯════🆄︎ᴘʟᴏᴀᴅɪɴɢ⬆️⬆️═════⌯──╮ \n├⚡ {progress_bar}|﹝{perc}﹞ \n├🚀 Speed » {sp} \n├📟 Processed » {cur}\n├🧲 Size - ETA » {tot} - {eta} \n├🤖 𝔹ʏ » @Engineers_Babu\n╰─═══ ✪ @Engineers_Babu ✪ ═══─╯\n</b>') 
+                await reply.edit(f'<b>\n ╭──⌯════🆄︎ᴘʟᴏᴀᴅɪɴɢ⬆️⬆️═════⌯──╮ \n├⚡ {progress_bar}|﹝{perc}﹞ \n├🚀 Speed » {sp} \n├📟 Processed » {cur}\n├🧲 Size - ETA » {tot} - {eta} \n├🤖 𝔹ʏ » @𝒮𝒶𝒽𝒾𝓁\n╰─═══ ✪ @𝒮𝒶𝒽𝒾𝓁 ✪ ═══─╯\n</b>') 
             except FloodWait as e:
                 time.sleep(e.x)
 
