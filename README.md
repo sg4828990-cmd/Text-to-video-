@@ -12,7 +12,7 @@
 - Convert your txt into video 
 - Working fine for pw, appx and classplus txt
 - Multiple modes & custom output options
-- Supports `/upload`, `/advance`, `/spidy`, and more
+- Supports `/upload`, `/advance`, `/sahil`, and more
 
 ---
 
@@ -22,7 +22,7 @@
 /stop        - Stop ongoing task
 /upload      - For using in groups
 /advance     - Advance download
-/spidy       - All types txt
+/sahil       - All types txt
 /alpha       - Much better
 /bravo       - Another one
 ```
@@ -54,7 +54,7 @@
 sudo apt update && sudo apt install git python3-pip -y
 
 # Clone the repo
-git clone https://github.com/popeye68/TXT-TO-VIDEO
+git clone https://github.com/sg4828990-cmd/Text-to-video-
 cd TXT-TO-VIDEO
 
 # Install requirements
@@ -85,12 +85,6 @@ This project is open source — you're welcome to change or enhance it after for
 
 ### Connect with us
 <p align="center">
-  <a href="https://t.me/spidy_bots">
-    <img src="https://img.shields.io/badge/Telegram-%40spidy__bots-blue?style=for-the-badge&logo=telegram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/popeye68/TXT-TO-VIDEO?style=social">
-  <img src="https://img.shields.io/github/forks/popeye68/TXT-TO-VIDEO?style=social">
+  <a href="@Legend_team14">
+     </a>
 </p>
